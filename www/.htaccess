@@ -1,8 +1,0 @@
-php_value display_errors 0
-php_value error_reporting 2047
-
-DirectoryIndex index.php
-
-<IfModule mod_charset.c>
-CharsetRecodeMultipartForms off
-</IfModule>
